@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"VRChat Avatar Rich Presence",
+    "id":"com.vrchat.VRCARP",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"flooodmusic@gmail.com",
+        "name":"Floood-0867",
+        "url":"https://flooodcat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Discord Rich Presence for Unity",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
